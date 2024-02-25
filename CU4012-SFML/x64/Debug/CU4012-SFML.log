@@ -1,0 +1,4 @@
+﻿  Menu.cpp
+C:\Users\raouy\OneDrive\Documents\CU4012-GamesProgramming\Week 17\CU4012-SFML\Menu.cpp(19,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\raouy\OneDrive\Documents\CU4012-GamesProgramming\Week 17\CU4012-SFML\Menu.cpp(112): warning C4715: 'Menu::handleInput': not all control paths return a value
+  CU4012-SFML.vcxproj -> C:\Users\raouy\OneDrive\Documents\CU4012-GamesProgramming\Week 17\x64\Debug\CU4012-SFML.exe
